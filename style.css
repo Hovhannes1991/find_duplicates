@@ -1,0 +1,40 @@
+#delete{
+  margin: 0 20px 0 0;
+}
+
+#exceptions{  
+  letter-spacing: 15px;
+  padding: 5px 15px;
+}
+
+table{
+  border: 1px solid green;
+  gap: 10px;
+  background-color: #fff;
+  width: 80%;
+  margin: 20px auto;
+}
+
+th{
+  background: green;
+  color: #fff;
+  text-align: center;
+}
+
+td{
+  background-color: lightblue;
+  text-align: center;
+}
+
+.delete_row_button{
+  margin: 0 10px;
+  cursor: pointer;
+}
+
+.key{
+  color: red;
+}
+
+.message{
+  color: green;
+}
